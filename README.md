@@ -1,2 +1,7 @@
 # Projet-olvoyage
-Projet scholaire, réalisé avec notre merveilleux professeur de sql.
+Projet scolaire, réalisé courant de l'année 2016. 
+Participant : Chef de Projet Gaby Fulchic
+Mel Persh
+Hadrien Morgana 
+Terry Romeu
+
